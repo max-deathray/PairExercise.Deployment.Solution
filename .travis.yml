@@ -22,6 +22,6 @@ before_script:
 # deploy:
 #   skip_cleanup: true # prevents travis from deleting the build
 #   provider: heroku
-#   app: YOUR-HEROKU-APP-NAME-HERE # see README
+#   app: mcare-app # see README
 #   api_key:
-#     secure: YOUR-***ENCRYPTED***-API-KEY-HERE
+#     secure: hhZvqT7HhkgY11+G0DrOEEiFSXXv39p35KtXHHJM1a5NGxAZoTza9rIEopTQNNo2LdH+JbJjyIBSl5Enu8vYlhWTMAtr+fqZBRHNImuB/+/v+fQmcYoXVsYyKbj1agrRk6ntRmnMKnI6riya1Ro4EqQasdQFI3bwGZt+qrX8jYTQ9ScNDbY9wafAf+YOAgQt1STaa/x5qlASAVid/bOUtBgJtQA0y5jNiq5Z+gNSH4fGCBzBrqsVX4fZpnARGFyLkRyVSPjKJHl7I5pSNLankJ84fYMwy2ILoQ4DSeENjvGJvjv9vI6aBtVMj1pCAGRLVbNowD/OAXZUfxLG8iXKQeSOZorXr+Ooo5EMvEwFc3n+X1bTfXJfW2Ax7TM2eVuzYDWy/TGpVjyekXWnAAp/wEz4uF9NBbWIOzQeAOFS6PwJyNQB4dlpT0hwwQowMBMGH2Tq7Y9XVzTXx42pFX+aHn8nRMOSHS1YTMsYMYncx9f6QdpCc+KKmbY4BFBoA3ewSv+KTkGFanrrcLIqdQYDO1unwTvMi6dkFqhwNWtjKUAxOOK/yEtrCHB7PkpbsT6mdgfTqk/SaMUTRi9ZJoJ1KpoeHTbK+ccuo8X54/Ddah3IdcAjPL47OrC526tAqG830h6uzSVyavaQDBs1cpUhztfsp8HVQfF7o8wzqyucitI=
